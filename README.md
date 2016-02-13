@@ -1,7 +1,7 @@
-# NeuralNetwork
+# neural network
 Essential components required in neural network.
 
-# Description
+## Description
 Artificial neural networks use learning algorithms that are inspired by our understanding of how the brain learns, but they are evaluated by how well they work for practical applications such as speech recognition, object recognition, image retrieval and the ability to recommend products that a user will like.
 This is the start point when I was learning Machine Learning, and it works great for digit recognition.  
 
